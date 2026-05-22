@@ -3,12 +3,10 @@
 # dependencies
 node_modules/
 
-# IDE
+# IDE / local tooling
 .idea/
 .cursor/
 .claude/
-
-# AI assistant config (local only)
 AGENTS.md
 CLAUDE.md
 
